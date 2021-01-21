@@ -17,6 +17,7 @@ a {
   text-decoration: none;
   color: #999;
 }
+
 a:hover {
   color: #6633ff;
 }
@@ -65,6 +66,7 @@ header {
 header {
   line-height: 1.5;
 }
+
 header .profile-image {
   margin-top: 50px;
   width: 150px;
@@ -74,7 +76,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.1) rotate(360deg);
 }
 .tag {
   background-color: #efefef;
@@ -86,7 +88,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color:white;
 }
 .card {
   margin: 30px;
@@ -99,7 +101,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #0399ff;
 }
 
 ul.skills {
@@ -202,18 +204,12 @@ a.social:hover {
 
 #resume-h1 {
   text-align: center;
-}
-/* 
-.main-image {
-  border: solid 4px black;
-  border-radius: 50%;
-}
-
-h1 {
   background-color: #e2e2e2;
   padding: 5px;
 }
 
 .section-title {
   text-transform: uppercase;  
-}  */ 
+  background-color: #e2e2e2;
+  padding: 5px;
+} 
