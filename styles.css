@@ -208,13 +208,13 @@ a.social:hover {
   }
 }
 
-#resume-h1 {
+#resume-header {
   text-align: center;
   background-color: #e2e2e2;
   padding: 5px;
 }
 
-.section-title {
+.resume-title {
   text-transform: uppercase;  
   background-color: #e2e2e2;
   padding: 5px;
