@@ -228,3 +228,7 @@ a.social:hover {
   color: blue;
   text-decoration: underline;
 }
+
+#contact-me-img {
+  border-radius: 6px;
+}
